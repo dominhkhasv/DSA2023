@@ -1,4 +1,4 @@
-package main.week2;
+package main.week2.excercise;
 
 import edu.princeton.cs.algs4.*;
 import org.w3c.dom.ls.LSOutput;
