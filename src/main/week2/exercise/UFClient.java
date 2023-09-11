@@ -1,4 +1,4 @@
-package main.week2.excercise;
+package main.week2.exercise;
 
 import edu.princeton.cs.algs4.*;
 

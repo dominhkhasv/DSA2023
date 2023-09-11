@@ -1,7 +1,6 @@
-package main.week2.excercise;
+package main.week2.exercise;
 
 import edu.princeton.cs.algs4.*;
-import org.w3c.dom.ls.LSOutput;
 
 public class UFClient2 {
     public static void main(String[] args) {
