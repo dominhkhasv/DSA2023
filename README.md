@@ -1,16 +1,19 @@
 ## Cấu trúc dữ liệu và giải thuật
 
-Website tài liệu học: https://cautrucdulieugiaithuat.wordpress.com/blog/
 
-UET Courses: https://courses.uet.vnu.edu.vn/course/view.php?id=10391
+Website tài liệu học: [tại đây](https://cautrucdulieugiaithuat.wordpress.com)
 
-### Hướng dẫn nộp bài
+UET Courses: [tại đây](https://courses.uet.vnu.edu.vn/course/view.php?id=10391)
+
+### Nộp bài
 
 Trong folder src, mỗi tuần gồm 3 package:
-
-* coursera: gồm các bài tập trên coursera
-* exercise: gồm các bài tập về nhà hàng tuần tại: https://cautrucdulieugiaithuat.wordpress.com/blog/
-* hackerrank: gồm các bài tập trên hackerrank: https://www.hackerrank.com/
+* exercise: gồm các bài tập về nhà hàng tuần [tại đây](https://cautrucdulieugiaithuat.wordpress.com/blog/)
+* coursera: gồm các bài tập trên coursera (nếu có)
+* hackerrank: gồm các bài tập trên hackerrank (nếu có)
 
 Xem ví dụ tại: https://github.com/dominhkhasv/DSA2023/tree/master/src/main/week2
+
+### Help
+Các bạn đặt câu hỏi: [tại đây](https://piazza.com/class/llly50wsom653f)
 
