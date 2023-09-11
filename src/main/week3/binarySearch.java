@@ -1,2 +1,4 @@
-package main.week3;public class binarySearch {
+package main.week3;
+
+public class binarySearch {
 }
